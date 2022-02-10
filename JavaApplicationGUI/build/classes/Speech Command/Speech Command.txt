@@ -1,0 +1,22 @@
+Friday
+Open Chrome
+Close Chrome
+Lights On
+Lights Off
+Open NetBeans
+Close NetBeans
+Open Android Studio
+Close Android Studio
+Open Control Panel
+Close Control Panel
+Open My Computer
+Close My Computer
+Shutdown My Computer
+Close
+Connect FireBase
+Delete CheckFile
+Open NotePad
+Close NotePad
+Open WhatsApp
+Close WhatsApp
+What is the time now
